@@ -2,7 +2,7 @@
 
 function preload()
 {
-    img = loadImage('http://i.imgur.com/iMf3glV.png');
+    img = loadImage('https://2.bp.blogspot.com/-Wo05s4IjSXI/W5FW_2PRCII/AAAAAAAAAMY/8jl8EndQwW0_JTniklX7g8AE-xdj97YagCLcBGAs/s320/Picture11.png');
    // myFont = loadFont('Images/EncodeSans-Light.ttf');
    // myFont2 = loadFont('Images/IndieFlower.ttf');
 }
