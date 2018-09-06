@@ -6,7 +6,7 @@ var particles = [];
 
 function preload()
 {
-    img = loadImage('http://i.imgur.com/lXGaUeF.png');
+    img = loadImage('https://1.bp.blogspot.com/-ahCPx66zM5k/W5FWG2pEL9I/AAAAAAAAAMQ/A2BRdrnwSlcoHCoOyDsWc91wh9xMOqQ1QCLcBGAs/s640/Picture2.png');
     myFont = loadFont('Images/Inconsolata-Regular.ttf');
     myFont2 = loadFont('Images/IndieFlower.ttf');
 }
