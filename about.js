@@ -90,7 +90,7 @@ function draw(){
     fill(80);
     noStroke();
     text('About :',500,260);
-    s = "My name is Shivansh Tiwari, I am 22 years old and I'm a recent B.E graduate. I have 2 years of experience in web development and wordpress, I'm also intrested in Big Data.";
+    s = "";
    
     t = "Current Location : Pune, Maharastra";
     pop();
